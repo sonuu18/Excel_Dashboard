@@ -17,7 +17,7 @@ Understanding your top customers can lead to targeted marketing efforts and loya
 This can inform inventory decisions and promotional strategies.
 This metric can help assess growth and the effectiveness of customer acquisition strategies.
 
-# Final conclusion to improve Nirja Store Sales:
+# Final conclusion to improve Nirja Store Sales
 To boost store sales, use seasonal trends for marketing, promote popular products, and create loyalty programs for top customers. Keep popular items in stock and regularly check how well your marketing is working to make improvements
 
 # [Nirja Store Data - Dashboard]
